@@ -1,0 +1,13 @@
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\obj\Debug\netcoreapp3.1\LincolnCardGame.csprojAssemblyReference.cache
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\obj\Debug\netcoreapp3.1\LincolnCardGame.AssemblyInfoInputs.cache
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\obj\Debug\netcoreapp3.1\LincolnCardGame.AssemblyInfo.cs
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\obj\Debug\netcoreapp3.1\LincolnCardGame.csproj.CoreCompileInputs.cache
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\bin\Debug\netcoreapp3.1\LincolnCardGame.exe
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\bin\Debug\netcoreapp3.1\LincolnCardGame.deps.json
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\bin\Debug\netcoreapp3.1\LincolnCardGame.runtimeconfig.json
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\bin\Debug\netcoreapp3.1\LincolnCardGame.runtimeconfig.dev.json
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\bin\Debug\netcoreapp3.1\LincolnCardGame.dll
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\bin\Debug\netcoreapp3.1\LincolnCardGame.pdb
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\obj\Debug\netcoreapp3.1\LincolnCardGame.dll
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\obj\Debug\netcoreapp3.1\LincolnCardGame.pdb
+E:\Uni Stuff\Uni Programs\LincolnCardGame\LincolnCardGame\obj\Debug\netcoreapp3.1\LincolnCardGame.genruntimeconfig.cache
